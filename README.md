@@ -1,5 +1,11 @@
 # Bug Shooting Challenge 事前問題
 
+## 回答方法
+エントリーシート内にある回答フォームにGistのURLを貼ってください。
+
+## 回答例
+[こちらのGist](https://gist.github.com/m77so/9d2b5adf7261e8e3133207b6ededf28d)を参考に、回答用のSecret Gistを作成してください。
+
 ## 問題1
 
 ユーザ作成エンドポイント `http://example.com/api/v1/users/new` に対して下記のJSONデータをPOSTするcurlコマンドを記述してください。
